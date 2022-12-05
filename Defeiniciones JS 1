@@ -1,0 +1,5 @@
+Variables: El la forma de dar a entender que quieres un comando y que quieres que haga algo solo con esa palabra.
+Strings: Es una variable de tipo string a la palabra o conjunto de palabras entre comillas que te gusradan datos importantes
+Funciones (argumentos return): Las funciones toman un valor de entrada y uno de salida y los return nos devuelve un valor,no lo imprime,no hace nada con él,solo lo devuelve y despues decidir que hacer con él
+Declaraciónes if:Evalua dos situaciones diferentes en valores por ejemplo poner precios
+Valores Booleanos (true,false): Se utiliza para comprobar que una asignacion es verdadera o falsa comparando valores numericos o dependiendo la asignacion
